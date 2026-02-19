@@ -1,13 +1,3 @@
-¡Excelente! Vamos a crear el archivo más importante de cualquier proyecto en GitHub: el README.md. Es la carta de presentación, la puerta de entrada para quien llegue a tu repositorio.
-
-He buscado referencias de "transparencia activa" y encontré un paquete interno de la Controladoría de Minas Gerais (Brasil) , pero lo nuestro es mucho más ambicioso: un sistema de verificación ciudadana basado en blockchain. Así que vamos a crear algo desde cero, con nuestra identidad propia.
-
-Aquí tienes un README.md completo y bien estructurado para Transparencia Activa. Puedes copiarlo y adaptarlo a tu gusto.
-
----
-
-📄 README.md para Transparencia Activa
-
 ```markdown
 # Transparencia Activa 🇲🇽⚡
 
